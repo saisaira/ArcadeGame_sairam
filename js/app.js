@@ -76,7 +76,7 @@ Player.prototype.handleInput = function(keyevent) {
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies
 // Place the player object in a variable called player
-
+// we 
 let allEnemies = [];
 //here given different enemies positions on that screen.
 let ememypositions = [80, 125, 160, 240];
